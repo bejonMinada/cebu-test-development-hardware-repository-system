@@ -199,7 +199,7 @@ const initialBorrowRecords = [
     quantityBorrowed: 1,
     dateBorrowed: '2025-10-21T11:05:00Z',
     dateReturned: null,
-    borrowerEmail: 'alexisdoreen.israel.j@onsemi.com',
+    borrowerEmail: 'alexisdoreen.israel@onsemi.com',
     daysToBorrow: 5,
   },
   {
